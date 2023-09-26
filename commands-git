@@ -7,4 +7,6 @@ git clone [URL du repository]
 git add .
 git commit -m "Message du commit"
 git push
+## La commande de pull
+git pull
 
